@@ -34,7 +34,34 @@
               "rideMinutesFromEntry": 0
             }
           },
-          "dateSlot": null
+          "dateSlot": { "dateSlotId": 1148, "date": "2024-04-29T00:00:00", "quantity": 10 }
+        },
+        {
+          "productId": 78991,
+          "productName": "Entré FM 10-64 P7",
+          "jetshopId": 188711,
+          "price": 59,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "Morning",
+            "priceLevel": 7,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 1148,
+            "date": "2024-04-29T00:00:00",
+            "quantity": 10
+          }
         },
         {
           "productId": 7902,
@@ -58,6 +85,33 @@
             }
           },
           "dateSlot": null
+        },
+        {
+          "productId": 789912,
+          "productName": "Entré EM 10-64 P7",
+          "jetshopId": 1887112,
+          "price": 59,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "Afternoon",
+            "priceLevel": 7,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 1148,
+            "date": "2024-04-29T00:00:00",
+            "quantity": 10
+          }
         },
         {
           "productId": 7896,
@@ -123,6 +177,33 @@
           "dateSlot": null
         },
         {
+          "productId": 789913,
+          "productName": "TTR FM 10-64 P7",
+          "jetshopId": 1887113,
+          "price": 59,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "Morning",
+            "priceLevel": 7,
+            "visitorCategory": "Baby",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 1148,
+            "date": "2024-04-29T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
           "productId": 5627,
           "productName": "Entré 0-2 år Eftermiddag",
           "jetshopId": 18623,
@@ -164,6 +245,60 @@
             "dateSlotId": 1148,
             "date": "2024-04-29T00:00:00",
             "quantity": 10
+          }
+        },
+        {
+          "productId": 789914,
+          "productName": "TTR FM 10-64 P7",
+          "jetshopId": 1887114,
+          "price": 59,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "Day",
+            "priceLevel": 7,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 1148,
+            "date": "2024-04-29T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 789915,
+          "productName": "TTR FM 10-64 P7",
+          "jetshopId": 1887115,
+          "price": 59,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "Day",
+            "priceLevel": 7,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 1148,
+            "date": "2024-04-29T00:00:00",
+            "quantity": 0
           }
         },
         {
