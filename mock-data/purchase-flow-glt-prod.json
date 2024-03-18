@@ -64,29 +64,6 @@
           }
         },
         {
-          "productId": 7902,
-          "productName": "Ticket-to-ride EM 10-64 P7",
-          "jetshopId": 18875,
-          "price": 599,
-          "previousPrice": -1,
-          "jetshopProductType": "ExpressPass",
-          "timePassRequired": false,
-          "productMetadata": {
-            "numberOfJetPassIncluded": 2,
-            "entryVariant": "Afternoon",
-            "priceLevel": 7,
-            "visitorCategory": "Adult",
-            "timeLimits": {
-              "firstEntryTime": null,
-              "lastEntryTime": null,
-              "firstRideTime": "16:10:00",
-              "lastRideTime": "21:40:00",
-              "rideMinutesFromEntry": 0
-            }
-          },
-          "dateSlot": null
-        },
-        {
           "productId": 789912,
           "productName": "Entré EM 10-64 P7",
           "jetshopId": 1887112,
@@ -257,7 +234,7 @@
           "timePassRequired": false,
           "productMetadata": {
             "numberOfJetPassIncluded": null,
-            "entryVariant": "Day",
+            "entryVariant": "Morning",
             "priceLevel": 7,
             "visitorCategory": "Child",
             "timeLimits": {
@@ -284,7 +261,7 @@
           "timePassRequired": false,
           "productMetadata": {
             "numberOfJetPassIncluded": null,
-            "entryVariant": "Day",
+            "entryVariant": "Morning",
             "priceLevel": 7,
             "visitorCategory": "Child",
             "timeLimits": {
