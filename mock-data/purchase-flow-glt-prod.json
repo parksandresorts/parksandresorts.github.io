@@ -9,6 +9,346 @@
   "maxEntryProducts": 10,
   "calendar": [
     {
+      "date": "2025-04-28T00:00:00",
+      "opens": "2025-04-28T12:00:00",
+      "closing": "2025-04-28T19:00:00",
+      "products": [
+        {
+          "productId": 7898,
+          "productName": "Ticket-to-ride FM 10-64 P7",
+          "jetshopId": 18871,
+          "price": 599,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Morning",
+            "priceLevel": 7,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 111482,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7902,
+          "productName": "Ticket-to-ride EM 10-64 P7",
+          "jetshopId": 18875,
+          "price": 599,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Afternoon",
+            "priceLevel": 7,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "16:10:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 111481,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7896,
+          "productName": "Ticket-to-ride FM 3-9 P7",
+          "jetshopId": 18869,
+          "price": 499,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Morning",
+            "priceLevel": 7,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 11481,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7900,
+          "productName": "Ticket-to-ride EM 3-9 P7",
+          "jetshopId": 18873,
+          "price": 499,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Afternoon",
+            "priceLevel": 7,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "16:10:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 11482,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 5626,
+          "productName": "Entré 0-2 år Förmiddag",
+          "jetshopId": 18622,
+          "price": 0,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "Morning",
+            "priceLevel": 0,
+            "visitorCategory": "Baby",
+            "timeLimits": null
+          },
+          "dateSlot": {
+            "dateSlotId": 21148,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 5627,
+          "productName": "Entré 0-2 år Eftermiddag",
+          "jetshopId": 18623,
+          "price": 0,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "Afternoon",
+            "priceLevel": 0,
+            "visitorCategory": "Baby",
+            "timeLimits": null
+          },
+          "dateSlot": {
+            "dateSlotId": 211481,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7889,
+          "productName": "Ticket-to-ride Dag 3-9 P10",
+          "jetshopId": 18862,
+          "price": 649,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Day",
+            "priceLevel": 10,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "12:00:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 211482,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7894,
+          "productName": "Ticket-to-ride Dag 10-64 P10",
+          "jetshopId": 18867,
+          "price": 749,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Day",
+            "priceLevel": 10,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "12:00:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 31148,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 6559,
+          "productName": "Entré 0-2 år Heldag",
+          "jetshopId": 18696,
+          "price": 0,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "Day",
+            "priceLevel": 0,
+            "visitorCategory": "Baby",
+            "timeLimits": null
+          },
+          "dateSlot": {
+            "dateSlotId": 311481,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 6560,
+          "productName": "Ticket-to-ride FM 65+ P0",
+          "jetshopId": 18711,
+          "price": 99,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Morning",
+            "priceLevel": 0,
+            "visitorCategory": "Elderly",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 311482,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 6561,
+          "productName": "Ticket-to-ride EM 65+ P0",
+          "jetshopId": 18712,
+          "price": 99,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Afternoon",
+            "priceLevel": 0,
+            "visitorCategory": "Elderly",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "16:10:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 41148,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 6562,
+          "productName": "Ticket-to-ride Dag 65+ P0",
+          "jetshopId": 18713,
+          "price": 99,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 2,
+            "entryVariant": "Day",
+            "priceLevel": 0,
+            "visitorCategory": "Elderly",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "12:00:00",
+              "lastRideTime": "21:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 411481,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        },
+        {
+          "productId": 7899119,
+          "productName": "Tvådagars",
+          "jetshopId": 188711194,
+          "price": 1717,
+          "previousPrice": -1,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": null,
+            "entryVariant": "TwoDays",
+            "priceLevel": 7,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": null,
+              "lastEntryTime": null,
+              "firstRideTime": "10:10:00",
+              "lastRideTime": "15:40:00",
+              "rideMinutesFromEntry": 0
+            }
+          },
+          "dateSlot": {
+            "dateSlotId": 411482,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 10
+          }
+        }
+      ]
+    },
+    {
       "date": "2025-04-29T00:00:00",
       "opens": "2025-04-29T12:00:00",
       "closing": "2025-04-29T19:00:00",
@@ -31758,6 +32098,14 @@
       "paragraph": "Vad? ",
       "numberOfDays": 1,
       "sortIndex": 30
+    },
+    "TwoDays": {
+      "id": "TwoDays",
+      "name": "Två dagar???",
+      "description": "Vad? {parkOpens} - {parkClosing}",
+      "paragraph": "Vad? ",
+      "numberOfDays": 2,
+      "sortIndex": 40
     }
   },
   "upsellProducts": [
