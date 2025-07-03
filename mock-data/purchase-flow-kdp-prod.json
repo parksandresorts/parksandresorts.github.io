@@ -1689,6 +1689,146 @@
       ]
     },
     {
+      "date": "2025-04-28T00:00:00",
+      "opens": "2025-04-28T10:00:00",
+      "closing": "2025-04-28T18:00:00",
+      "earlyEntrance": null,
+      "products": [
+        {
+          "productId": 8419,
+          "productName": "Entré Barn 3-12 1-dag P3",
+          "jetshopId": 18805,
+          "price": 259.0,
+          "previousPrice": -1.0,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "OneDay",
+            "priceLevel": 3,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": "10:00:00",
+              "lastEntryTime": "17:00:00",
+              "firstRideTime": null,
+              "lastRideTime": null,
+              "rideMinutesFromEntry": 0,
+              "lastActivityRelativeTime": 0
+            },
+            "autoSelectTimeslot": false
+          },
+          "dateSlot": {
+            "dateSlotId": 597350,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 50
+          },
+          "template": {
+            "templateId": 18,
+            "highEntrance": false
+          }
+        },
+        {
+          "productId": 8420,
+          "productName": "Entré Vuxen 13+ 1-dag P3",
+          "jetshopId": 18808,
+          "price": 359.0,
+          "previousPrice": -1.0,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "OneDay",
+            "priceLevel": 3,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": "10:00:00",
+              "lastEntryTime": "17:00:00",
+              "firstRideTime": null,
+              "lastRideTime": null,
+              "rideMinutesFromEntry": 0,
+              "lastActivityRelativeTime": 0
+            },
+            "autoSelectTimeslot": false
+          },
+          "dateSlot": {
+            "dateSlotId": 597358,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 50
+          },
+          "template": {
+            "templateId": 17,
+            "highEntrance": false
+          }
+        },
+        {
+          "productId": 8421,
+          "productName": "Entré Barn 3-12 2-dag P3",
+          "jetshopId": 18811,
+          "price": 459.0,
+          "previousPrice": -1.0,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "TwoDays",
+            "priceLevel": 3,
+            "visitorCategory": "Child",
+            "timeLimits": {
+              "firstEntryTime": "10:00:00",
+              "lastEntryTime": "17:00:00",
+              "firstRideTime": null,
+              "lastRideTime": null,
+              "rideMinutesFromEntry": 0,
+              "lastActivityRelativeTime": 0
+            },
+            "autoSelectTimeslot": false
+          },
+          "dateSlot": {
+            "dateSlotId": 599158,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 50
+          },
+          "template": {
+            "templateId": 22,
+            "highEntrance": false
+          }
+        },
+        {
+          "productId": 8422,
+          "productName": "Entré Vuxen 13+ 2-dag P3",
+          "jetshopId": 18814,
+          "price": 559.0,
+          "previousPrice": -1.0,
+          "jetshopProductType": "ExpressPass",
+          "timePassRequired": false,
+          "productMetadata": {
+            "numberOfJetPassIncluded": 0,
+            "entryVariant": "TwoDays",
+            "priceLevel": 3,
+            "visitorCategory": "Adult",
+            "timeLimits": {
+              "firstEntryTime": "10:00:00",
+              "lastEntryTime": "17:00:00",
+              "firstRideTime": null,
+              "lastRideTime": null,
+              "rideMinutesFromEntry": 0,
+              "lastActivityRelativeTime": 0
+            },
+            "autoSelectTimeslot": false
+          },
+          "dateSlot": {
+            "dateSlotId": 599166,
+            "date": "2025-04-28T00:00:00",
+            "quantity": 50
+          },
+          "template": {
+            "templateId": 21,
+            "highEntrance": false
+          }
+        }
+      ]
+    },
+    {
       "date": "2025-05-01T00:00:00",
       "opens": "2025-05-01T10:00:00",
       "closing": "2025-05-01T18:00:00",
