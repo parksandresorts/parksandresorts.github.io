@@ -371,6 +371,7 @@ export const fakeExtendedProducts = [
     jetshopName: "Gröna Kortet Gåvobevis",
     minimumQuantity: 1,
     deliveryTypes: [],
+    metadata: null,
   },
   {
     id: "5c7440de-e42b-50ca-8cbd-ae4b2830386e",
@@ -474,5 +475,6 @@ export const fakeExtendedProducts = [
     jetshopName: "Guldkortet Vuxen Hemleverans",
     minimumQuantity: 1,
     deliveryTypes: [],
+    metadata: null,
   },
 ];
