@@ -4,10 +4,8 @@ export const mockedDateProducts = [
   {
     productId: 6555,
     productName: "Ticket-to-ride Dag 4-8 P3",
-    jetshopId: 19646,
     price: 395,
     previousPrice: -1,
-    jetshopProductType: "ExpressPass",
     timePassRequired: false,
     productMetadata: {
       numberOfJetPassIncluded: 2,
@@ -38,10 +36,8 @@ export const mockedDateProducts = [
   {
     productId: 8870,
     productName: "Entré 4-9 år P3",
-    jetshopId: 19830,
     price: 150,
     previousPrice: -1,
-    jetshopProductType: "ExpressPass",
     timePassRequired: false,
     productMetadata: {
       numberOfJetPassIncluded: 0,
@@ -72,10 +68,8 @@ export const mockedDateProducts = [
   {
     productId: 6556,
     productName: "Ticket-to-ride Dag 9-64 P3",
-    jetshopId: 19645,
     price: 445,
     previousPrice: -1,
-    jetshopProductType: "ExpressPass",
     timePassRequired: false,
     productMetadata: {
       numberOfJetPassIncluded: 2,
@@ -106,10 +100,8 @@ export const mockedDateProducts = [
   {
     productId: 8863,
     productName: "Entré 9-64 år P3",
-    jetshopId: 19823,
     price: 150,
     previousPrice: -1,
-    jetshopProductType: "ExpressPass",
     timePassRequired: false,
     productMetadata: {
       numberOfJetPassIncluded: 0,
@@ -148,7 +140,6 @@ export const dummyAdditionalProducts = [
     componentTheme: "purple",
     productData: {
       glkId: "6521",
-      jetshopId: 19660,
       productType: "Standard",
       hasAttributes: false,
       relatedProducts: [],
@@ -211,7 +202,6 @@ export const dummyAdditionalProducts = [
     componentTheme: "gold",
     productData: {
       glkId: "4627",
-      jetshopId: 18622,
       productType: "Standard",
       hasAttributes: false,
       relatedProducts: [],
@@ -272,12 +262,12 @@ export const fakeExtendedProducts = [
   {
     id: "f6cc7616-407c-5a76-a3cf-db1e720a6262",
     contentful_id: "2zCUuhfb85ZmRN81gBp5jw",
+    glkId: 6521,
     node_locale: "sv",
     internalTitle: "Produkt Gröna Kortet (Gåvobevis)",
     componentTheme: "purple",
     productData: {
       glkId: "6521",
-      jetshopId: 19660,
       productType: "Standard",
       hasAttributes: false,
       relatedProducts: [],
@@ -376,12 +366,12 @@ export const fakeExtendedProducts = [
   {
     id: "5c7440de-e42b-50ca-8cbd-ae4b2830386e",
     contentful_id: "s9BLLjHqZsSLX0ZaJeQjW",
+    glkId: 4627,
     node_locale: "sv",
     internalTitle: "Produkt Guldkortet (",
     componentTheme: "gold",
     productData: {
       glkId: "4627",
-      jetshopId: 18622,
       productType: "Standard",
       hasAttributes: false,
       relatedProducts: [],

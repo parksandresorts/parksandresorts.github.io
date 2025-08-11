@@ -3,7 +3,6 @@ export const baseGroupAdmissionProduct = {
   productName: "Ticket to Ride",
   price: 100,
   timePassRequired: false,
-  jetshopProductType: "string",
   productMetadata: {
     numberOfJetPassIncluded: 10,
     entryVariant: "Morning" as const,
