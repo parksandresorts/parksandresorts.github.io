@@ -1,3 +1,4 @@
+import { ProductBlockFragment } from "@/core/types";
 import { EntryVariant, VisitorCategory } from "../../src/types/services/purchase-flow-service-types";
 
 export const mockedDateProducts = [
@@ -131,13 +132,14 @@ export const mockedDateProducts = [
   },
 ];
 
-export const dummyAdditionalProducts = [
+export const dummyAdditionalProducts: Array<ProductBlockFragment> = [
   {
     id: "f6cc7616-407c-5a76-a3cf-db1e720a6262",
+    backgroundColor: null,
     contentful_id: "2zCUuhfb85ZmRN81gBp5jw",
     node_locale: "sv",
     internalTitle: "Produkt Gröna Kortet (Gåvobevis)",
-    componentTheme: "purple",
+    componentTheme: "gold",
     productData: {
       glkId: "6521",
       productType: "Standard",
@@ -155,11 +157,9 @@ export const dummyAdditionalProducts = [
       file: {
         url: "//images.ctfassets.net/ds6dz7ilx8up/5lSYMdJBcbjnmUb3ZlBnkG/09ba027b58186883a312c840a5a6e7dd/GLT_GLive_1600x900px.png",
       },
-    },
-    cartThumbnail: {
-      file: {
-        url: "//images.ctfassets.net/ds6dz7ilx8up/5lSYMdJBcbjnmUb3ZlBnkG/09ba027b58186883a312c840a5a6e7dd/GLT_GLive_1600x900px.png",
-      },
+      gatsbyImageData: null,
+      fullWidthGatsbyImageData: null,
+      largeGatsbyImageData: null,
     },
     upsellRichText: null,
     description: {
@@ -193,8 +193,16 @@ export const dummyAdditionalProducts = [
     numberOfEntryTicketsIncluded: null,
     purchasableOutsideEntryTime: null,
     seasonPassVisitorCategory: "Vuxen",
+    preamble: null,
+    hidePriceInProductListBlock: null,
+    useFullWidthImage: null,
+    enableRegistrationForm: null,
+    myPagesDescription: null,
+    myPageTheme: null,
+    needsTimeSlotBooking: null,
   },
   {
+    backgroundColor: null,
     id: "2f7bf1f2-1d61-523b-9ae3-ced0b09b1ff7",
     contentful_id: "5KZHP1WItylaigOkMjXngD",
     node_locale: "sv",
@@ -216,11 +224,9 @@ export const dummyAdditionalProducts = [
       file: {
         url: "//images.ctfassets.net/ds6dz7ilx8up/5MdinxnUtOApzRMEXSzJQC/4d0f80474af0fb368ef14c4fd053ae12/GLT_guldkortet_1600x900px.png",
       },
-    },
-    cartThumbnail: {
-      file: {
-        url: "//images.ctfassets.net/ds6dz7ilx8up/5MdinxnUtOApzRMEXSzJQC/4d0f80474af0fb368ef14c4fd053ae12/GLT_guldkortet_1600x900px.png",
-      },
+      gatsbyImageData: null,
+      fullWidthGatsbyImageData: null,
+      largeGatsbyImageData: null,
     },
     upsellRichText: null,
     description: {
@@ -255,6 +261,13 @@ export const dummyAdditionalProducts = [
     productNameMyPages: "Guldkortet",
     purchasableOutsideEntryTime: null,
     seasonPassVisitorCategory: "Vuxen",
+    preamble: null,
+    hidePriceInProductListBlock: null,
+    useFullWidthImage: null,
+    enableRegistrationForm: null,
+    myPagesDescription: null,
+    myPageTheme: null,
+    needsTimeSlotBooking: null,
   },
 ];
 
@@ -304,11 +317,8 @@ export const fakeExtendedProducts = [
         width: 228,
         height: 128,
       },
-    },
-    cartThumbnail: {
-      file: {
-        url: "//images.ctfassets.net/ds6dz7ilx8up/5lSYMdJBcbjnmUb3ZlBnkG/09ba027b58186883a312c840a5a6e7dd/GLT_GLive_1600x900px.png",
-      },
+      fullWidthGatsbyImageData: null,
+      largeGatsbyImageData: null,
     },
     upsellDescription: null,
     upsellRichText: null,
@@ -328,7 +338,6 @@ export const fakeExtendedProducts = [
     purchaseFlowCustomPriceText: null,
     hidePriceInProductListBlock: null,
     label: null,
-    labelComponentTheme: "purple",
     tags: [
       {
         id: "405784b7-a2d7-59fe-97ad-11950d5431b8",
@@ -409,11 +418,6 @@ export const fakeExtendedProducts = [
         height: 128,
       },
     },
-    cartThumbnail: {
-      file: {
-        url: "//images.ctfassets.net/ds6dz7ilx8up/4biLsnw7ZhdgWE37ushsTu/4b8e0e9395d686099f57f265c2c4015a/guldkortetny-128x128.png",
-      },
-    },
     upsellDescription: null,
     upsellRichText: null,
     description: {
@@ -432,7 +436,6 @@ export const fakeExtendedProducts = [
     purchaseFlowCustomPriceText: null,
     hidePriceInProductListBlock: null,
     label: null,
-    labelComponentTheme: "pink",
     tags: [
       {
         id: "405784b7-a2d7-59fe-97ad-11950d5431b8",
