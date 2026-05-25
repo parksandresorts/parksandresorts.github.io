@@ -13,6 +13,7 @@
       "opens": "2025-04-12T10:00:00",
       "closing": "2025-04-12T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -153,6 +154,7 @@
       "opens": "2025-04-13T10:00:00",
       "closing": "2025-04-13T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -293,6 +295,7 @@
       "opens": "2025-04-14T10:00:00",
       "closing": "2025-04-14T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -433,6 +436,7 @@
       "opens": "2025-04-15T10:00:00",
       "closing": "2025-04-15T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -573,6 +577,7 @@
       "opens": "2025-04-16T10:00:00",
       "closing": "2025-04-16T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -713,6 +718,7 @@
       "opens": "2025-04-17T10:00:00",
       "closing": "2025-04-17T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8415,
@@ -853,6 +859,7 @@
       "opens": "2025-04-18T10:00:00",
       "closing": "2025-04-18T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 9605,
@@ -993,6 +1000,7 @@
       "opens": "2025-04-19T10:00:00",
       "closing": "2025-04-19T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 9605,
@@ -1133,6 +1141,7 @@
       "opens": "2025-04-20T10:00:00",
       "closing": "2025-04-20T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 9605,
@@ -1273,6 +1282,7 @@
       "opens": "2025-04-21T10:00:00",
       "closing": "2025-04-21T17:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 9605,
@@ -1413,6 +1423,7 @@
       "opens": "2025-04-26T10:00:00",
       "closing": "2025-04-26T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -1553,6 +1564,7 @@
       "opens": "2025-04-27T10:00:00",
       "closing": "2025-04-27T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -1693,6 +1705,7 @@
       "opens": "2025-04-28T10:00:00",
       "closing": "2025-04-28T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -1833,6 +1846,7 @@
       "opens": "2025-05-01T10:00:00",
       "closing": "2025-05-01T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -1973,6 +1987,7 @@
       "opens": "2025-05-02T10:00:00",
       "closing": "2025-05-02T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -2113,6 +2128,7 @@
       "opens": "2025-05-03T10:00:00",
       "closing": "2025-05-03T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -2253,6 +2269,7 @@
       "opens": "2025-05-04T10:00:00",
       "closing": "2025-05-04T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -2393,6 +2410,7 @@
       "opens": "2025-05-10T10:00:00",
       "closing": "2025-05-10T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -2533,6 +2551,7 @@
       "opens": "2025-05-11T10:00:00",
       "closing": "2025-05-11T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -2673,6 +2692,7 @@
       "opens": "2025-05-17T10:00:00",
       "closing": "2025-05-17T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -2813,6 +2833,7 @@
       "opens": "2025-05-18T10:00:00",
       "closing": "2025-05-18T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -2953,6 +2974,7 @@
       "opens": "2025-05-24T10:00:00",
       "closing": "2025-05-24T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -3093,6 +3115,7 @@
       "opens": "2025-05-25T10:00:00",
       "closing": "2025-05-25T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -3233,6 +3256,7 @@
       "opens": "2025-05-29T10:00:00",
       "closing": "2025-05-29T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -3373,6 +3397,7 @@
       "opens": "2025-05-30T10:00:00",
       "closing": "2025-05-30T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -3513,6 +3538,7 @@
       "opens": "2025-05-31T10:00:00",
       "closing": "2025-05-31T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -3653,6 +3679,7 @@
       "opens": "2025-06-01T10:00:00",
       "closing": "2025-06-01T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -3793,6 +3820,7 @@
       "opens": "2025-06-02T10:00:00",
       "closing": "2025-06-02T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -3933,6 +3961,7 @@
       "opens": "2025-06-03T10:00:00",
       "closing": "2025-06-03T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -4073,6 +4102,7 @@
       "opens": "2025-06-04T10:00:00",
       "closing": "2025-06-04T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -4213,6 +4243,7 @@
       "opens": "2025-06-05T10:00:00",
       "closing": "2025-06-05T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -4353,6 +4384,7 @@
       "opens": "2025-06-06T10:00:00",
       "closing": "2025-06-06T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -4493,6 +4525,7 @@
       "opens": "2025-06-07T10:00:00",
       "closing": "2025-06-07T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -4633,6 +4666,7 @@
       "opens": "2025-06-08T10:00:00",
       "closing": "2025-06-08T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -4773,6 +4807,7 @@
       "opens": "2025-06-09T10:00:00",
       "closing": "2025-06-09T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -4913,6 +4948,7 @@
       "opens": "2025-06-10T10:00:00",
       "closing": "2025-06-10T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -5053,6 +5089,7 @@
       "opens": "2025-06-11T10:00:00",
       "closing": "2025-06-11T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -5193,6 +5230,7 @@
       "opens": "2025-06-12T10:00:00",
       "closing": "2025-06-12T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -5333,6 +5371,7 @@
       "opens": "2025-06-13T10:00:00",
       "closing": "2025-06-13T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -5473,6 +5512,7 @@
       "opens": "2025-06-14T10:00:00",
       "closing": "2025-06-14T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -5613,6 +5653,7 @@
       "opens": "2025-06-15T10:00:00",
       "closing": "2025-06-15T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -5753,6 +5794,7 @@
       "opens": "2025-06-16T10:00:00",
       "closing": "2025-06-16T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -5893,6 +5935,7 @@
       "opens": "2025-06-17T10:00:00",
       "closing": "2025-06-17T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -6033,6 +6076,7 @@
       "opens": "2025-06-18T10:00:00",
       "closing": "2025-06-18T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -6173,6 +6217,7 @@
       "opens": "2025-06-19T10:00:00",
       "closing": "2025-06-19T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -6313,6 +6358,7 @@
       "opens": "2025-06-20T10:00:00",
       "closing": "2025-06-20T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -6453,6 +6499,7 @@
       "opens": "2025-06-21T10:00:00",
       "closing": "2025-06-21T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -6593,6 +6640,7 @@
       "opens": "2025-06-22T10:00:00",
       "closing": "2025-06-22T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -6733,6 +6781,7 @@
       "opens": "2025-06-23T10:00:00",
       "closing": "2025-06-23T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -6873,6 +6922,7 @@
       "opens": "2025-06-24T10:00:00",
       "closing": "2025-06-24T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -7013,6 +7063,7 @@
       "opens": "2025-06-25T10:00:00",
       "closing": "2025-06-25T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -7153,6 +7204,7 @@
       "opens": "2025-06-26T10:00:00",
       "closing": "2025-06-26T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -7293,6 +7345,7 @@
       "opens": "2025-06-27T10:00:00",
       "closing": "2025-06-27T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -7433,6 +7486,7 @@
       "opens": "2025-06-28T10:00:00",
       "closing": "2025-06-28T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -7573,6 +7627,7 @@
       "opens": "2025-06-29T10:00:00",
       "closing": "2025-06-29T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -7713,6 +7768,7 @@
       "opens": "2025-06-30T10:00:00",
       "closing": "2025-06-30T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -7853,6 +7909,7 @@
       "opens": "2025-07-01T10:00:00",
       "closing": "2025-07-01T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -7993,6 +8050,7 @@
       "opens": "2025-07-02T10:00:00",
       "closing": "2025-07-02T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8133,6 +8191,7 @@
       "opens": "2025-07-03T10:00:00",
       "closing": "2025-07-03T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8273,6 +8332,7 @@
       "opens": "2025-07-04T10:00:00",
       "closing": "2025-07-04T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8413,6 +8473,7 @@
       "opens": "2025-07-05T10:00:00",
       "closing": "2025-07-05T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8553,6 +8614,7 @@
       "opens": "2025-07-06T10:00:00",
       "closing": "2025-07-06T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8693,6 +8755,7 @@
       "opens": "2025-07-07T10:00:00",
       "closing": "2025-07-07T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8833,6 +8896,7 @@
       "opens": "2025-07-08T10:00:00",
       "closing": "2025-07-08T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -8973,6 +9037,7 @@
       "opens": "2025-07-09T10:00:00",
       "closing": "2025-07-09T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9113,6 +9178,7 @@
       "opens": "2025-07-10T10:00:00",
       "closing": "2025-07-10T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9253,6 +9319,7 @@
       "opens": "2025-07-11T10:00:00",
       "closing": "2025-07-11T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9393,6 +9460,7 @@
       "opens": "2025-07-12T10:00:00",
       "closing": "2025-07-12T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9533,6 +9601,7 @@
       "opens": "2025-07-13T10:00:00",
       "closing": "2025-07-13T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9673,6 +9742,7 @@
       "opens": "2025-07-14T10:00:00",
       "closing": "2025-07-14T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9813,6 +9883,7 @@
       "opens": "2025-07-15T10:00:00",
       "closing": "2025-07-15T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -9953,6 +10024,7 @@
       "opens": "2025-07-16T10:00:00",
       "closing": "2025-07-16T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10093,6 +10165,7 @@
       "opens": "2025-07-17T10:00:00",
       "closing": "2025-07-17T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10233,6 +10306,7 @@
       "opens": "2025-07-18T10:00:00",
       "closing": "2025-07-18T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10373,6 +10447,7 @@
       "opens": "2025-07-19T10:00:00",
       "closing": "2025-07-19T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10513,6 +10588,7 @@
       "opens": "2025-07-20T10:00:00",
       "closing": "2025-07-20T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10653,6 +10729,7 @@
       "opens": "2025-07-21T10:00:00",
       "closing": "2025-07-21T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10793,6 +10870,7 @@
       "opens": "2025-07-22T10:00:00",
       "closing": "2025-07-22T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -10933,6 +11011,7 @@
       "opens": "2025-07-23T10:00:00",
       "closing": "2025-07-23T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11073,6 +11152,7 @@
       "opens": "2025-07-24T10:00:00",
       "closing": "2025-07-24T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11213,6 +11293,7 @@
       "opens": "2025-07-25T10:00:00",
       "closing": "2025-07-25T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11353,6 +11434,7 @@
       "opens": "2025-07-26T10:00:00",
       "closing": "2025-07-26T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11493,6 +11575,7 @@
       "opens": "2025-07-27T10:00:00",
       "closing": "2025-07-27T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11633,6 +11716,7 @@
       "opens": "2025-07-28T10:00:00",
       "closing": "2025-07-28T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11773,6 +11857,7 @@
       "opens": "2025-07-29T10:00:00",
       "closing": "2025-07-29T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -11913,6 +11998,7 @@
       "opens": "2025-07-30T10:00:00",
       "closing": "2025-07-30T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12053,6 +12139,7 @@
       "opens": "2025-07-31T10:00:00",
       "closing": "2025-07-31T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12193,6 +12280,7 @@
       "opens": "2025-08-01T10:00:00",
       "closing": "2025-08-01T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12333,6 +12421,7 @@
       "opens": "2025-08-02T10:00:00",
       "closing": "2025-08-02T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12473,6 +12562,7 @@
       "opens": "2025-08-03T10:00:00",
       "closing": "2025-08-03T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12613,6 +12703,7 @@
       "opens": "2025-08-04T10:00:00",
       "closing": "2025-08-04T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12753,6 +12844,7 @@
       "opens": "2025-08-05T10:00:00",
       "closing": "2025-08-05T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -12893,6 +12985,7 @@
       "opens": "2025-08-06T10:00:00",
       "closing": "2025-08-06T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -13033,6 +13126,7 @@
       "opens": "2025-08-07T10:00:00",
       "closing": "2025-08-07T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -13173,6 +13267,7 @@
       "opens": "2025-08-08T10:00:00",
       "closing": "2025-08-08T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -13313,6 +13408,7 @@
       "opens": "2025-08-09T10:00:00",
       "closing": "2025-08-09T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -13453,6 +13549,7 @@
       "opens": "2025-08-10T10:00:00",
       "closing": "2025-08-10T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 11575,
@@ -13593,6 +13690,7 @@
       "opens": "2025-08-11T10:00:00",
       "closing": "2025-08-11T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -13733,6 +13831,7 @@
       "opens": "2025-08-12T10:00:00",
       "closing": "2025-08-12T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -13873,6 +13972,7 @@
       "opens": "2025-08-13T10:00:00",
       "closing": "2025-08-13T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -14013,6 +14113,7 @@
       "opens": "2025-08-14T10:00:00",
       "closing": "2025-08-14T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -14153,6 +14254,7 @@
       "opens": "2025-08-15T10:00:00",
       "closing": "2025-08-15T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -14293,6 +14395,7 @@
       "opens": "2025-08-16T10:00:00",
       "closing": "2025-08-16T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -14433,6 +14536,7 @@
       "opens": "2025-08-17T10:00:00",
       "closing": "2025-08-17T19:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10548,
@@ -14573,6 +14677,7 @@
       "opens": "2025-08-23T10:00:00",
       "closing": "2025-08-23T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -14713,6 +14818,7 @@
       "opens": "2025-08-24T10:00:00",
       "closing": "2025-08-24T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -14853,6 +14959,7 @@
       "opens": "2025-08-30T10:00:00",
       "closing": "2025-08-30T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -14993,6 +15100,7 @@
       "opens": "2025-08-31T10:00:00",
       "closing": "2025-08-31T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8419,
@@ -15133,6 +15241,7 @@
       "opens": "2025-09-06T10:00:00",
       "closing": "2025-09-06T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -15273,6 +15382,7 @@
       "opens": "2025-09-07T10:00:00",
       "closing": "2025-09-07T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -15413,6 +15523,7 @@
       "opens": "2025-09-13T10:00:00",
       "closing": "2025-09-13T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -15553,6 +15664,7 @@
       "opens": "2025-09-14T10:00:00",
       "closing": "2025-09-14T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
@@ -15693,6 +15805,7 @@
       "opens": "2025-09-20T10:00:00",
       "closing": "2025-09-20T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 10547,
@@ -15833,6 +15946,7 @@
       "opens": "2025-09-21T10:00:00",
       "closing": "2025-09-21T18:00:00",
       "earlyEntrance": null,
+      "upsellProducts": [],
       "products": [
         {
           "productId": 8411,
