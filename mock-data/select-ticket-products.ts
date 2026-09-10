@@ -144,7 +144,6 @@ export const dummyAdditionalProducts: Array<ProductBlockFragment> = [
     componentTheme: "gold",
     productData: {
       glkId: "6521",
-      productType: "Standard",
     },
     productName: "Gröna Kortet (+ Familjefemkampshäfte)",
     productNameMyPages: "Gröna Kortet",
@@ -209,7 +208,6 @@ export const dummyAdditionalProducts: Array<ProductBlockFragment> = [
     componentTheme: "gold",
     productData: {
       glkId: "4627",
-      productType: "Standard",
     },
     productName: "Guldkortet",
     productPageLink: {
@@ -277,7 +275,6 @@ export const fakeProducts = {
       componentTheme: "gold",
       productData: {
         glkId: "6521",
-        productType: "Standard",
       },
       productName: "Gröna Kortet (+ Familje­femkamps­häfte)",
       productNameMyPages: "Gröna Kortet",
@@ -362,7 +359,6 @@ export const fakeProducts = {
       componentTheme: "gold",
       productData: {
         glkId: "4627",
-        productType: "Standard",
       },
       productName: "Guldkortet",
       productNameMyPages: "",
