@@ -141,7 +141,7 @@ export const dummyAdditionalProducts: Array<ProductBlockFragment> = [
     contentful_id: "2zCUuhfb85ZmRN81gBp5jw",
     node_locale: "sv",
     internalTitle: "Produkt Gröna Kortet (Gåvobevis)",
-    componentTheme: "gold",
+    componentTheme: "gronalund-quaternary",
     productData: {
       glkId: "6521",
     },
@@ -205,7 +205,7 @@ export const dummyAdditionalProducts: Array<ProductBlockFragment> = [
     contentful_id: "5KZHP1WItylaigOkMjXngD",
     node_locale: "sv",
     internalTitle: "Produkt Guldkortet Ge bort (4627)",
-    componentTheme: "gold",
+    componentTheme: "gronalund-quaternary",
     productData: {
       glkId: "4627",
     },
@@ -272,7 +272,7 @@ export const fakeProducts = {
       contentful_id: "2zCUuhfb85ZmRN81gBp5jw",
       node_locale: "sv",
       internalTitle: "Produkt Gröna Kortet (Gåvobevis)",
-      componentTheme: "gold",
+      componentTheme: "gronalund-quaternary",
       productData: {
         glkId: "6521",
       },
@@ -356,7 +356,7 @@ export const fakeProducts = {
       contentful_id: "s9BLLjHqZsSLX0ZaJeQjW",
       node_locale: "sv",
       internalTitle: "Produkt Guldkortet (",
-      componentTheme: "gold",
+      componentTheme: "gronalund-quaternary",
       productData: {
         glkId: "4627",
       },
