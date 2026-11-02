@@ -738,6 +738,41 @@
       }
     },
     {
+      "value": "barnens-jul",
+      "key": "Barnens Jul",
+      "rules": {
+        "primary100": "#350008",
+        "primary200": "#5f020f",
+        "primary300": "#90171c",
+        "primary400": "#be2d34",
+        "primary500": "#f23934",
+        "primary600": "#f77872",
+        "primary700": "#ff9e9b",
+        "primary800": "#ffe5b3",
+        "primary900": "#fff4de",
+        "secondary100": "#0d1b18",
+        "secondary200": "#073024",
+        "secondary300": "#1b5240",
+        "secondary400": "#2a7056",
+        "secondary500": "#409374",
+        "secondary600": "#61b298",
+        "secondary700": "#8ccbb9",
+        "secondary800": "#c1ebde",
+        "secondary900": "#e6fbf6",
+        "tertiary100": "#340012",
+        "tertiary200": "#58001e",
+        "tertiary300": "#8f002f",
+        "tertiary400": "#c4104c",
+        "tertiary500": "#ec3f77",
+        "tertiary600": "#ff6ea5",
+        "tertiary700": "#ff94bd",
+        "tertiary800": "#ffd6e6",
+        "tertiary900": "#fff1f6",
+        "white": "#000",
+        "black": "#fff"
+      }
+    },
+    {
       "value": "black-and-white",
       "key": "Black and White",
       "rules": {
